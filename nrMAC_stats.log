@@ -1,0 +1,13 @@
+
+UE RNTI 49b1 CU-UE-ID 1 in-sync PH 44 dB PCMAX 22 dBm, average RSRP -72 (20 meas)
+UE 49b1: CQI 14, RI 2, PMI (0,1)
+UE 49b1: UL-RI 1, TPMI 0
+UE 49b1: dlsch_rounds 90539/14/0/0, dlsch_errors 0, pucch0_DTX 3, BLER 0.00022 MCS (1) 9
+UE 49b1: ulsch_rounds 5062/38/1/1, ulsch_errors 1, ulsch_DTX 5, BLER 0.00808 MCS (1) 9
+UE 49b1: MAC:    TX     1870405482 RX         403627 bytes
+UE 49b1: LCID 1: TX            727 RX           2021 bytes
+UE 49b1: LCID 2: TX              0 RX              0 bytes
+UE 49b1: LCID 4: TX     1865989085 RX         161235 bytes
+
+
+
